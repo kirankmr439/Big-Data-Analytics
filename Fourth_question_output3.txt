@@ -1,0 +1,60 @@
+The Top 20 bigrams with highest TFIDF values in the document 74-0.txt are:
+in the        0.002131
+It was        0.000404
+I dont        0.000396
+I reckon      0.000372
+Injun Joe     0.000301
+There was     0.000269
+Tom said      0.000269
+Tom was       0.000238
+He was        0.000214
+I was         0.000206
+The boys      0.000198
+I know        0.000190
+Then he       0.000190
+you know      0.000182
+I never       0.000182
+Tom Sawyer    0.000166
+I didnt       0.000158
+the boys      0.000155
+Name: 74-0.txt, dtype: float64
+The Top 20 bigrams with highest TFIDF values in the document 76-0.txt are:
+the king     0.000491
+he says      0.000411
+the duke     0.000381
+warnt no     0.000306
+begun to     0.000306
+It was       0.000251
+got to       0.000235
+the canoe    0.000215
+and says     0.000205
+to get       0.000203
+He said      0.000195
+I was        0.000195
+So I         0.000190
+says the     0.000180
+gwyne to     0.000180
+it  I        0.000175
+But I        0.000175
+I says       0.000170
+Name: 76-0.txt, dtype: float64
+The Top 20 bigrams with highest TFIDF values in the document 84-0.txt are:
+in the      0.001681
+I was       0.001452
+I had       0.001402
+I           0.000979
+I am        0.000715
+He          0.000565
+me          0.000501
+I could     0.000494
+My          0.000494
+The         0.000430
+I should    0.000429
+which I     0.000348
+I felt      0.000343
+whom I      0.000308
+She         0.000286
+I shall     0.000250
+I did       0.000243
+It was      0.000236
+Name: 84-0.txt, dtype: float64

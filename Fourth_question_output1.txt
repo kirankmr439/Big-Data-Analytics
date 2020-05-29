@@ -1,0 +1,60 @@
+The Top 18 words with highest TFIDF values in the document  74-0.txt are:
+the     0.021869
+a       0.011210
+it      0.006298
+in      0.006028
+that    0.005483
+he      0.005414
+you     0.004587
+Tom     0.004324
+The     0.002663
+they    0.002525
+He      0.001993
+she     0.001842
+so      0.001773
+Huck    0.001353
+now     0.001122
+But     0.001065
+They    0.000896
+And     0.000871
+Name: 74-0.txt, dtype: float64
+The Top 18 words with highest TFIDF values in the document  76-0.txt are:
+got        0.000934
+en         0.000881
+I          0.000860
+He         0.000783
+But        0.000759
+And        0.000653
+So         0.000592
+The        0.000571
+duke       0.000539
+didnt      0.000509
+It         0.000485
+We         0.000441
+warnt      0.000440
+dont       0.000435
+Then       0.000420
+You        0.000392
+Well       0.000347
+couldnt    0.000324
+Name: 76-0.txt, dtype: float64
+The Top 18 words with highest TFIDF values in the document  84-0.txt are:
+the     0.023878
+a       0.008198
+in      0.006664
+and     0.006507
+I       0.006164
+that    0.005965
+you     0.003220
+he      0.002786
+it      0.002703
+The     0.001745
+so      0.001211
+she     0.001070
+they    0.000993
+now     0.000870
+My      0.000829
+But     0.000811
+He      0.000776
+we      0.000735
+Name: 84-0.txt, dtype: float64

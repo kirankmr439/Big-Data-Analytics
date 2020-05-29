@@ -1,0 +1,240 @@
+The Top 18 terms with highest TFIDF values in the document  0001 are:
+Lorem     0.057339
+Ipsum     0.057339
+the       0.050312
+and       0.043004
+of        0.033541
+Cras      0.000000
+in        0.000000
+to        0.000000
+sit       0.000000
+semper    0.000000
+nisi      0.000000
+magna     0.000000
+et        0.000000
+from      0.000000
+diam      0.000000
+by        0.000000
+augue     0.000000
+amet      0.000000
+Name: 0001, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0002 are:
+from      0.074110
+in        0.071674
+Latin     0.055582
+Lorem     0.035837
+a         0.035837
+of        0.029349
+Ipsum     0.028670
+the       0.025156
+and       0.021502
+Cras      0.000000
+nisi      0.000000
+to        0.000000
+sit       0.000000
+semper    0.000000
+et        0.000000
+magna     0.000000
+diam      0.000000
+by        0.000000
+Name: 0002, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0003 are:
+by        0.778151
+Cras      0.000000
+from      0.000000
+to        0.000000
+the       0.000000
+sit       0.000000
+semper    0.000000
+of        0.000000
+nisi      0.000000
+magna     0.000000
+in        0.000000
+et        0.000000
+Ipsum     0.000000
+diam      0.000000
+augue     0.000000
+and       0.000000
+amet      0.000000
+a         0.000000
+Name: 0003, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0004 are:
+a         0.107511
+and       0.064506
+the       0.037734
+of        0.037734
+Cras      0.000000
+in        0.000000
+to        0.000000
+sit       0.000000
+semper    0.000000
+nisi      0.000000
+magna     0.000000
+et        0.000000
+from      0.000000
+Ipsum     0.000000
+diam      0.000000
+by        0.000000
+augue     0.000000
+amet      0.000000
+Name: 0004, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0005 are:
+to        0.097269
+words     0.072952
+Lorem     0.047036
+Ipsum     0.047036
+the       0.033017
+of        0.033017
+a         0.028222
+in        0.000000
+sit       0.000000
+semper    0.000000
+nisi      0.000000
+magna     0.000000
+Cras      0.000000
+from      0.000000
+diam      0.000000
+by        0.000000
+augue     0.000000
+and       0.000000
+Name: 0005, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0006 are:
+sit       0.208874
+amet      0.208874
+nisi      0.139249
+Cras      0.104437
+magna     0.104437
+semper    0.104437
+et        0.104437
+in        0.058264
+augue     0.000000
+by        0.000000
+diam      0.000000
+Ipsum     0.000000
+from      0.000000
+and       0.000000
+a         0.000000
+of        0.000000
+Lorem     0.000000
+Latin     0.000000
+Name: 0006, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0007 are:
+augue     0.539591
+diam      0.539591
+Cras      0.000000
+in        0.000000
+to        0.000000
+the       0.000000
+sit       0.000000
+semper    0.000000
+of        0.000000
+nisi      0.000000
+magna     0.000000
+et        0.000000
+from      0.000000
+Ipsum     0.000000
+by        0.000000
+and       0.000000
+amet      0.000000
+a         0.000000
+Name: 0007, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0008 are:
+Lorem     0.057339
+Ipsum     0.057339
+the       0.050312
+and       0.043004
+of        0.033541
+Cras      0.000000
+in        0.000000
+to        0.000000
+sit       0.000000
+semper    0.000000
+nisi      0.000000
+magna     0.000000
+et        0.000000
+from      0.000000
+diam      0.000000
+by        0.000000
+augue     0.000000
+amet      0.000000
+Name: 0008, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0009 are:
+from      0.074110
+in        0.071674
+Latin     0.055582
+Lorem     0.035837
+a         0.035837
+of        0.029349
+Ipsum     0.028670
+the       0.025156
+and       0.021502
+Cras      0.000000
+nisi      0.000000
+to        0.000000
+sit       0.000000
+semper    0.000000
+et        0.000000
+magna     0.000000
+diam      0.000000
+by        0.000000
+Name: 0009, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0010 are:
+by        0.778151
+Cras      0.000000
+from      0.000000
+to        0.000000
+the       0.000000
+sit       0.000000
+semper    0.000000
+of        0.000000
+nisi      0.000000
+magna     0.000000
+in        0.000000
+et        0.000000
+Ipsum     0.000000
+diam      0.000000
+augue     0.000000
+and       0.000000
+amet      0.000000
+a         0.000000
+Name: 0010, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0011 are:
+a         0.107511
+and       0.064506
+the       0.037734
+of        0.037734
+Cras      0.000000
+in        0.000000
+to        0.000000
+sit       0.000000
+semper    0.000000
+nisi      0.000000
+magna     0.000000
+et        0.000000
+from      0.000000
+Ipsum     0.000000
+diam      0.000000
+by        0.000000
+augue     0.000000
+amet      0.000000
+Name: 0011, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0012 are:
+to        0.097269
+words     0.072952
+Lorem     0.047036
+Ipsum     0.047036
+the       0.033017
+of        0.033017
+a         0.028222
+in        0.000000
+sit       0.000000
+semper    0.000000
+nisi      0.000000
+magna     0.000000
+Cras      0.000000
+from      0.000000
+diam      0.000000
+by        0.000000
+augue     0.000000
+and       0.000000
+Name: 0012, dtype: float64

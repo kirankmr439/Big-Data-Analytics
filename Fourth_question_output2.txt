@@ -1,0 +1,60 @@
+The Top 18 words with highest TFIDF values in the document after eliminating the words with frequency less than 3  74-0.txt are:
+I        0.005219
+Tom      0.004840
+The      0.002981
+He       0.002231
+But      0.001192
+They     0.001003
+And      0.000975
+Well     0.000933
+It       0.000877
+Oh       0.000772
+Then     0.000736
+Becky    0.000666
+Ill      0.000666
+we       0.000666
+Now      0.000638
+You      0.000631
+No       0.000610
+A        0.000603
+Name: 74-0.txt, dtype: float64
+The Top 18 words with highest TFIDF values in the document after eliminating the words with frequency less than 3  76-0.txt are:
+I        0.002486
+says     0.001000
+got      0.000996
+en       0.000941
+He       0.000836
+But      0.000810
+And      0.000697
+So       0.000631
+king     0.000623
+The      0.000610
+duke     0.000575
+didnt    0.000543
+get      0.000535
+It       0.000518
+We       0.000470
+warnt    0.000469
+dont     0.000464
+aint     0.000460
+Name: 76-0.txt, dtype: float64
+The Top 18 words with highest TFIDF values in the document after eliminating the words with frequency less than 3  84-0.txt are:
+I            0.018083
+The          0.001890
+My           0.000897
+But          0.000878
+He           0.000840
+we           0.000795
+It           0.000643
+You          0.000554
+Elizabeth    0.000547
+This         0.000515
+She          0.000458
+We           0.000369
+Clerval      0.000356
+When         0.000350
+Justine      0.000344
+If           0.000331
+cottage      0.000325
+Felix        0.000318
+Name: 84-0.txt, dtype: float64

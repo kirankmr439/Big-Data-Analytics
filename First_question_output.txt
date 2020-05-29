@@ -1,0 +1,240 @@
+The Top 18 terms with highest TFIDF values in the document  0001 are:
+dummy          0.017102
+typesetting    0.017102
+type           0.017102
+with           0.010486
+been           0.008551
+scrambled      0.008551
+make           0.008551
+sheets         0.008551
+centuries      0.008551
+software       0.008551
+leap           0.008551
+release        0.008551
+specimen       0.008551
+survived       0.008551
+an             0.008551
+took           0.008551
+PageMaker      0.008551
+remaining      0.008551
+Name: 0001, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0002 are:
+classical      0.012064
+comes          0.012064
+BC             0.012064
+popular        0.012064
+literature     0.012064
+45             0.012064
+line           0.012064
+Latin          0.011096
+from           0.009334
+11032          0.007397
+a              0.006825
+undoubtable    0.006032
+McClintock     0.006032
+old            0.006032
+Renaissance    0.006032
+looked         0.006032
+Richard        0.006032
+up             0.006032
+Name: 0002, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0003 are:
+reproduced     0.033113
+original       0.016556
+H              0.016556
+interested     0.016556
+Rackham        0.016556
+Sections       0.016556
+translation    0.016556
+those          0.016556
+accompanied    0.016556
+used           0.016556
+below          0.016556
+exact          0.016556
+chunk          0.016556
+1914           0.016556
+from           0.012810
+by             0.011240
+for            0.010152
+are            0.010152
+Name: 0003, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0004 are:
+readable      0.014964
+web           0.014964
+using         0.014964
+that          0.014964
+here          0.014964
+sometimes     0.014964
+content       0.014964
+page          0.014964
+will          0.014964
+their         0.009175
+like          0.009175
+as            0.009175
+a             0.008466
+distracted    0.007482
+opposed       0.007482
+Many          0.007482
+normal        0.007482
+now           0.007482
+Name: 0004, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0005 are:
+you             0.012862
+Internet        0.012862
+or              0.012862
+which           0.012862
+words           0.011829
+injected        0.007886
+humour          0.007886
+are             0.007886
+embarrassing    0.006431
+repeat          0.006431
+reasonable      0.006431
+combined        0.006431
+dont            0.006431
+dictionary      0.006431
+middle          0.006431
+randomised      0.006431
+sentence        0.006431
+slightly        0.006431
+Name: 0005, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0006 are:
+semper        0.024161
+nisi          0.023228
+sit           0.021364
+amet          0.021364
+magna         0.017421
+Cras          0.017421
+nunc          0.016107
+orci          0.016107
+Vestibulum    0.016107
+Duis          0.016107
+convallis     0.016107
+posuere       0.016107
+ultrices      0.016107
+luctus        0.016107
+elit          0.016107
+aliquet       0.011614
+eu            0.011614
+gravida       0.011614
+Name: 0006, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0007 are:
+augue           0.023580
+diam            0.023580
+ut              0.021802
+fermentum       0.021802
+sollicitudin    0.021802
+faucibus        0.015720
+mi              0.015720
+gravida         0.015720
+non             0.015720
+nisl            0.015720
+nisi            0.015720
+vehicula        0.015720
+viverra         0.015720
+imperdiet       0.015720
+Cras            0.015720
+sed             0.015720
+Donec           0.015720
+Maecenas        0.010901
+Name: 0007, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0008 are:
+dummy          0.017102
+typesetting    0.017102
+type           0.017102
+with           0.010486
+been           0.008551
+scrambled      0.008551
+make           0.008551
+sheets         0.008551
+centuries      0.008551
+software       0.008551
+leap           0.008551
+release        0.008551
+specimen       0.008551
+survived       0.008551
+an             0.008551
+took           0.008551
+PageMaker      0.008551
+remaining      0.008551
+Name: 0008, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0009 are:
+classical      0.012064
+comes          0.012064
+BC             0.012064
+popular        0.012064
+literature     0.012064
+45             0.012064
+line           0.012064
+Latin          0.011096
+from           0.009334
+11032          0.007397
+a              0.006825
+undoubtable    0.006032
+McClintock     0.006032
+old            0.006032
+Renaissance    0.006032
+looked         0.006032
+Richard        0.006032
+up             0.006032
+Name: 0009, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0010 are:
+reproduced     0.033113
+original       0.016556
+H              0.016556
+interested     0.016556
+Rackham        0.016556
+Sections       0.016556
+translation    0.016556
+those          0.016556
+accompanied    0.016556
+used           0.016556
+below          0.016556
+exact          0.016556
+chunk          0.016556
+1914           0.016556
+from           0.012810
+by             0.011240
+for            0.010152
+are            0.010152
+Name: 0010, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0011 are:
+readable      0.014964
+web           0.014964
+using         0.014964
+that          0.014964
+here          0.014964
+sometimes     0.014964
+content       0.014964
+page          0.014964
+will          0.014964
+their         0.009175
+like          0.009175
+as            0.009175
+a             0.008466
+distracted    0.007482
+opposed       0.007482
+Many          0.007482
+normal        0.007482
+now           0.007482
+Name: 0011, dtype: float64
+The Top 18 terms with highest TFIDF values in the document  0012 are:
+you             0.012862
+Internet        0.012862
+or              0.012862
+which           0.012862
+words           0.011829
+injected        0.007886
+humour          0.007886
+are             0.007886
+embarrassing    0.006431
+repeat          0.006431
+reasonable      0.006431
+combined        0.006431
+dont            0.006431
+dictionary      0.006431
+middle          0.006431
+randomised      0.006431
+sentence        0.006431
+slightly        0.006431
+Name: 0012, dtype: float64
